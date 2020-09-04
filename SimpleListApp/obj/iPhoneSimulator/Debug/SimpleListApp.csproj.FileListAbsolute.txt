@@ -1,0 +1,15 @@
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/bin/iPhoneSimulator/Debug/SimpleListApp.exe
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/bin/iPhoneSimulator/Debug/SimpleListApp.pdb
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/SimpleListApp.csprojAssemblyReference.cache
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/SimpleListApp.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/SimpleListApp.csproj.CopyComplete
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/SimpleListApp.exe
+/Users/dmn/Projects/SimpleListApp/SimpleListApp/obj/iPhoneSimulator/Debug/SimpleListApp.pdb
