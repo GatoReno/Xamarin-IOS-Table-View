@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{2C08FDFF-848A-4B97-8EBD-86C15C567956}|Default">
   <MonoDevelop.Ide.ItemProperties.SimpleListApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.75D6E44A-5A85-45B3-8390-4086DAA388D9" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleListApp/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleListApp/ViewController.designer.cs">
     <Files>
-      <File FileName="SimpleListApp/AppDelegate.cs" Line="13" Column="24" />
-      <File FileName="SimpleListApp/Main.storyboard" />
       <File FileName="SimpleListApp/ViewController.cs" Line="28" Column="22" />
       <File FileName="SimpleListApp/ViewController.designer.cs" Line="1" Column="1" />
-      <File FileName="SimpleListApp/TableAdapter/TableViewSource.cs" Line="20" Column="1" />
+      <File FileName="SimpleListApp/TableAdapter/TableViewSource.cs" Line="49" Column="21" />
       <File FileName="SimpleListApp/LaunchScreen.storyboard" />
+      <File FileName="SimpleListApp/TableAdapter/MyCustomCell.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,8 +14,9 @@
           <Node name="SimpleListApp" expanded="True">
             <Node name="SimpleListApp" expanded="True">
               <Node name="TableAdapter" expanded="True" />
-              <Node name="Main.storyboard" selected="True" />
-              <Node name="ViewController.cs" expanded="True" />
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

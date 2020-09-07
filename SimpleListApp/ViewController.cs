@@ -14,12 +14,20 @@ namespace SimpleListApp
         public ViewController(IntPtr handle) : base(handle)
         {
             tItems = new List<string>();
-            for (int i = 0; i < 30; i++)
+            /*for (int i = 0; i < 30; i++)
             {
                 tItems.Add($"My i value: {i}");
-            }
+            }*/
+            tItems.Add("Abra");
+            tItems.Add("Belcebu");
+            tItems.Add("Cobra");
+            tItems.Add("Demon");
+            tItems.Add("King");
+            tItems.Add("Zebra");
+            tItems.Add("Elephant");
+            tItems.Add("Monkey");
 
-         }
+        }
 
         public override void ViewDidLoad()
         {
